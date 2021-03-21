@@ -1,7 +1,17 @@
 {
+    "name": "shaal/installer-test",
+    "description": "Adding ddev-gitpod setup to existing composer projects",
+    "type": "library",
     "require": {
         "mnsami/composer-custom-directory-installer": "^2.0"
     },
+    "license": "GNU General Public License, version 2",
+    "authors": [
+        {
+            "name": "Ofer Shaal",
+            "email": "shaalofer@gmail.com"
+        }
+    ],
     "extra":{
         "installer-paths":{
             "./": ["shaal/installer-test"]
