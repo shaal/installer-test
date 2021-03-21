@@ -1,0 +1,5 @@
+# ddev-Gitpod generated files
+docker-compose.host-docker-internal.yaml
+docker-compose.xdebug-ip.yaml
+config.fqdns.yaml
+config.gitpod-overrides.yaml
