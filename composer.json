@@ -14,7 +14,7 @@
     ],
     "extra":{
         "installer-paths":{
-            "./": ["shaal/installer-test"]
+            "./wow/": ["shaal/installer-test"]
         }
     }
 }
