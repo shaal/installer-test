@@ -1,0 +1,10 @@
+{
+    "require": {
+        "mnsami/composer-custom-directory-installer": "^2.0"
+    },
+    "extra":{
+        "installer-paths":{
+            "./": ["shaal/installer-test"]
+        }
+    }
+}
